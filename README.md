@@ -1,6 +1,6 @@
 # Batch Predictive inference
 
-The codes in this repository reproduce the experimental results from _Batch Predictive Inference_.
+The codes in this repository reproduce the experimental results from _Batch Predictive Inference_ (https://arxiv.org/abs/2409.13990).
 
 The functions.R file contains the helper functions necessary to run the procedures and simulations.
 
